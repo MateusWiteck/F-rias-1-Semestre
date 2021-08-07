@@ -13,11 +13,18 @@ Denominei "férias" o periodo entre o fim da semana da P2 e o inicio do segundo 
 Esta sesão apresenta os meus conhecimentos, sob minha avaliação, antes do inicio do projeto quanto à um determinado assunto:
 ### Produção de Sites:
 HTML: nenhum conhecimento
+
 CSS: nenhum conhecimento
+
 JavaScript: nenhum conhecimento
+
 ### Hospedagem de Sites:
+
 Linux: conhecimento razoavel. De alguém que usava linux mas nunca montou um servidor.
+
 Redes: conhecimento razoavel. Entendia o funcionamento da rede apenas superficialmente.
+
 Firewall: conhecimento razoavel. De alguém que já tinha usado um firewall uma vez.
+
 Servidor Apache e SSH: nenhum conhecimento,
 
